@@ -2,6 +2,9 @@ package com.arrebol.web.admin.controller.apartment;
 
 
 import com.arrebol.common.result.Result;
+import com.arrebol.model.entity.AttrKey;
+import com.arrebol.model.entity.AttrValue;
+import com.arrebol.web.admin.vo.attr.AttrKeyVo;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.web.bind.annotation.*;

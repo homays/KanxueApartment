@@ -1,6 +1,5 @@
 package com.arrebol.web.admin.controller.login;
 
-
 import com.arrebol.common.result.Result;
 import com.arrebol.web.admin.vo.login.CaptchaVo;
 import com.arrebol.web.admin.vo.login.LoginVo;

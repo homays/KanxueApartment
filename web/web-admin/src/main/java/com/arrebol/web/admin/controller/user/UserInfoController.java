@@ -1,6 +1,5 @@
 package com.arrebol.web.admin.controller.user;
 
-
 import com.arrebol.common.result.Result;
 import com.arrebol.model.entity.UserInfo;
 import com.arrebol.model.enums.BaseStatus;

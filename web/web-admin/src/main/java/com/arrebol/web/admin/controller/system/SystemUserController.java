@@ -1,6 +1,5 @@
 package com.arrebol.web.admin.controller.system;
 
-
 import com.arrebol.common.result.Result;
 import com.arrebol.model.entity.SystemUser;
 import com.arrebol.model.enums.BaseStatus;
@@ -10,7 +9,6 @@ import com.baomidou.mybatisplus.core.metadata.IPage;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.web.bind.annotation.*;
-
 
 @Tag(name = "后台用户信息管理")
 @RestController

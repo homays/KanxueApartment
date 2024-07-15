@@ -1,6 +1,5 @@
 package com.arrebol.web.admin.controller.lease;
 
-
 import com.arrebol.common.result.Result;
 import com.arrebol.model.enums.AppointmentStatus;
 import com.arrebol.web.admin.vo.appointment.AppointmentQueryVo;
@@ -9,7 +8,6 @@ import com.baomidou.mybatisplus.core.metadata.IPage;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.web.bind.annotation.*;
-
 
 @Tag(name = "预约看房管理")
 @RequestMapping("/admin/appointment")

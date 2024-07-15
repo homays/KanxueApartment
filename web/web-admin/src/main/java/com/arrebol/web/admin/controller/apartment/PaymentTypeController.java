@@ -1,6 +1,5 @@
 package com.arrebol.web.admin.controller.apartment;
 
-
 import com.arrebol.common.result.Result;
 import com.arrebol.model.entity.PaymentType;
 import io.swagger.v3.oas.annotations.Operation;
@@ -8,7 +7,6 @@ import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-
 
 @Tag(name = "支付方式管理")
 @RequestMapping("/admin/payment")

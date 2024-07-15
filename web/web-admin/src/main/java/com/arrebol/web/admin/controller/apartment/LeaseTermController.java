@@ -1,6 +1,5 @@
 package com.arrebol.web.admin.controller.apartment;
 
-
 import com.arrebol.common.result.Result;
 import com.arrebol.model.entity.LeaseTerm;
 import io.swagger.v3.oas.annotations.Operation;

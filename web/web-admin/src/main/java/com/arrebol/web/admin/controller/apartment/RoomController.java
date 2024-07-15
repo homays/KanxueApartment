@@ -1,6 +1,5 @@
 package com.arrebol.web.admin.controller.apartment;
 
-
 import com.arrebol.common.result.Result;
 import com.arrebol.model.entity.RoomInfo;
 import com.arrebol.model.enums.ReleaseStatus;

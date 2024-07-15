@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-
 @RestController
 @Tag(name = "后台用户岗位管理")
 @RequestMapping("/admin/system/post")

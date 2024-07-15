@@ -2,6 +2,8 @@ package com.arrebol.web.admin.controller.apartment;
 
 
 import com.arrebol.common.result.Result;
+import com.arrebol.model.entity.FacilityInfo;
+import com.arrebol.model.enums.ItemType;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.web.bind.annotation.*;
